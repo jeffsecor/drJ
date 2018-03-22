@@ -1,6 +1,6 @@
 # The amount of power programming can wield is outrageous
 
-In another life, I do some [physics](https://scholar.google.com/citations?user=-RageY8AAAAJ&hl=en).  In a parallel life, I'm a landscape concstruction design and build guy in Brooklyn, and you can see some of that work on my [instagra[(instagram.com/jsgardens)
+In another life, I do some [physics](https://scholar.google.com/citations?user=-RageY8AAAAJ&hl=en).  In a parallel life, I'm a landscape concstruction design and build guy in Brooklyn, and you can see some of that work on my [instagra](instagram.com/jsgardens)
 
 You can use the [editor on GitHub](https://github.com/jeffsecor/drJ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
