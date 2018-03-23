@@ -8,6 +8,9 @@ In another life, I do some [physics](https://scholar.google.com/citations?user=-
 * job that challenges my brain and pays me accordingly
 * opportunity to make really cool graphics from complicated data sets
 
+Stay tuned....
+
+
 
 You can use the [editor on GitHub](https://github.com/jeffsecor/drJ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
