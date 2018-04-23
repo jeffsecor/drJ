@@ -2,13 +2,9 @@
 
 In another life, I do some [physics](https://scholar.google.com/citations?user=-RageY8AAAAJ&hl=en).  In a parallel life, I'm a landscape concstruction design and build guy in Brooklyn, and you can see some of that work on my [instagram](instagram.com/jsgardens).  But I suppose you wonder why I'm here, and why I'm programming.  Here's an unordered list of reasons why:
 
-* it's in my nature to ask hard questions, and computers have more RAM than people
-* love for math and logic*persistent desire to create something
-* chance of never ending challenges
-* job that challenges my brain and pays me accordingly
-* opportunity to make really cool graphics from complicated data sets
-
-Stay tuned....
+what is the chirp before a price jump and is it different from chirp befor a drop 
+what is the optimal holding time of a stock. Daily, weekly, monthly etc for number of days prior or within a window
+plot "center of mass" versus time and analyze at tipping points
 
 
 
