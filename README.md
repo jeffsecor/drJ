@@ -1,4 +1,5 @@
-# The amount of power programming can wield is outrageous
+# Chlorophyll...
+
 
 In another life, I do some [physics](https://scholar.google.com/citations?user=-RageY8AAAAJ&hl=en).  In a parallel life, I'm a landscape concstruction design and build guy in Brooklyn, and you can see some of that work on my [instagram](instagram.com/jsgardens).  But I suppose you wonder why I'm here, and why I'm programming.  Here's an unordered list of reasons why:
 
