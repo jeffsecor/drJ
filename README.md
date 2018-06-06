@@ -8,42 +8,21 @@ In another parallel life, I built up a landscape concstruction design and build 
 
 But I suppose you wonder why I'm here, and why I'm programming.  Here's an unordered list of reasons why:
 
-what is the chirp before a price jump and is it different from chirp befor a drop 
-what is the optimal holding time of a stock. Daily, weekly, monthly etc for number of days prior or within a window
-plot "center of mass" versus time and analyze at tipping points
+* Im too productive for academia.  One of my favorite things others have said about me is that Im good at shaking things up, moving forward, and getting things done.  This is not often welcomed in an academic enviromnent.  
+* My projects have grown beyond what I can do myself.  As a lanscape design and build business, I reached a legal and technical limit to the scope of projects I can take on.  My natural tendency is to grow and take on bigger questions. Ive seen that computers and programming offer the greatest power to take on the challenges that interest me.  
+* I love to create. Anything that could be tangible or intangible, numerical or visual, finite or infinite.  Programming can quickly enable this.
+* 
+* Can I write a program to visuallize the eveolution of human civilization trade routes and cities and compare it to cancer? (Im not so nihilistic, but do think its an interesting comparison)
+* How does the closing times of international stock markets affect the New York markets?
+* to answer what is the trading volume and price chirp before a jump and is it different from chirp befor a drop? 
+* To plot "center of mass" of a stock versus time and analyze at tipping points
+* In all honesty, to get a job in data science
 
 
 
-You can use the [editor on GitHub](https://github.com/jeffsecor/drJ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+.
 
-### Markdown
+### Project Examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Take a look at the projects linked below if you are interested.  THere should always be more added as time goes on.  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeffsecor/drJ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
