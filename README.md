@@ -5,6 +5,7 @@ In another life, I research the interaction of light with different forms of mat
 
 In another parallel life, I built up a landscape concstruction design and build business in Brooklyn, and you can see some of that work on my [instagram](https://instagram.com/jsgardens). Over time I developed a love and skill for urban agriculture, project execution, moderate construction project management skills, and the ability to "get it done" 
 
+And finally, you can see my programming work here on github at [DrJ's Project Euler](https://github.com/jeffsecor/eulerProject)
 
 But I suppose you wonder why I'm here, and why I'm programming.  Here's an unordered list of reasons why:
 
